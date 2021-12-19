@@ -1,0 +1,302 @@
+{
+  "A100 PCIe": {
+    "perf": 19490.0,
+    "year": 2020
+  },
+  "A100 SXM4": {
+    "perf": 19490.0,
+    "year": 2020
+  },
+  "A100 SXM4 80 GB": {
+    "perf": 19490.0,
+    "year": 2020
+  },
+  "FirePro R5000": {
+    "perf": 1267.0,
+    "year": 2013
+  },
+  "FirePro S10000": {
+    "perf": 6810.0,
+    "year": 2012
+  },
+  "FirePro S4000X": {
+    "perf": 992.0,
+    "year": 2014
+  },
+  "FirePro S7000": {
+    "perf": 2432.0,
+    "year": 2012
+  },
+  "FirePro S7100X": {
+    "perf": 2970.0,
+    "year": 2016
+  },
+  "FirePro S7150": {
+    "perf": 3768.0,
+    "year": 2016
+  },
+  "FirePro S7150 x2": {
+    "perf": 7526.0,
+    "year": 2016
+  },
+  "FirePro S9000": {
+    "perf": 3226.0,
+    "year": 2012
+  },
+  "FirePro S9050": {
+    "perf": 3226.0,
+    "year": 2014
+  },
+  "FirePro S9100": {
+    "perf": 4219.0,
+    "year": 2014
+  },
+  "FirePro S9150": {
+    "perf": 5069.0,
+    "year": 2014
+  },
+  "FirePro S9300 X2": {
+    "perf": 15974.0,
+    "year": 2016
+  },
+  "GRID A100": {
+    "perf": 13890.0,
+    "year": 2020
+  },
+  "GRID K1": {
+    "perf": 1305.6,
+    "year": 2013
+  },
+  "GRID K120Q": {
+    "perf": 326.4,
+    "year": 2014
+  },
+  "GRID K180Q": {
+    "perf": 326.4,
+    "year": 2013
+  },
+  "GRID K2": {
+    "perf": 4578.0,
+    "year": 2013
+  },
+  "GRID K200": {
+    "perf": 2289.0,
+    "year": 2013
+  },
+  "GRID K220Q": {
+    "perf": 2289.0,
+    "year": 2014
+  },
+  "GRID K240Q": {
+    "perf": 2289.0,
+    "year": 2013
+  },
+  "GRID K260Q": {
+    "perf": 2289.0,
+    "year": 2013
+  },
+  "GRID K280Q": {
+    "perf": 2289.0,
+    "year": 2013
+  },
+  "GRID K340": {
+    "perf": 2918.4,
+    "year": 2013
+  },
+  "GRID K520": {
+    "perf": 4578.0,
+    "year": 2013
+  },
+  "GRID K560Q": {
+    "perf": 4578.0,
+    "year": 2014
+  },
+  "GRID M10-8Q": {
+    "perf": 1672.0,
+    "year": 2016
+  },
+  "GRID M40": {
+    "perf": 793.3,
+    "year": 2016
+  },
+  "GRID M6-8Q": {
+    "perf": 2218.0,
+    "year": 2015
+  },
+  "GRID M60-1Q": {
+    "perf": 4825.0,
+    "year": 2015
+  },
+  "GRID M60-2Q": {
+    "perf": 4825.0,
+    "year": 2015
+  },
+  "GRID M60-4A": {
+    "perf": 4825.0,
+    "year": 2015
+  },
+  "GRID M60-8Q": {
+    "perf": 4825.0,
+    "year": 2015
+  },
+  "NVIDIA Tesla V100 FHHL": {
+    "perf": 13210.0,
+    "year": 2018
+  },
+  "Radeon Instinct MI100": {
+    "perf": 23070.0,
+    "year": 2020
+  },
+  "Radeon Instinct MI25": {
+    "perf": 12300.0,
+    "year": 2016
+  },
+  "Radeon Instinct MI50": {
+    "perf": 13400.0,
+    "year": 2018
+  },
+  "Radeon Instinct MI6": {
+    "perf": 5800.0,
+    "year": 2016
+  },
+  "Radeon Instinct MI60": {
+    "perf": 14725.0,
+    "year": 2018
+  },
+  "Radeon Instinct MI8": {
+    "perf": 8200.0,
+    "year": 2016
+  },
+  "Radeon Sky 500": {
+    "perf": 2432.0,
+    "year": 2013
+  },
+  "Radeon Sky 700": {
+    "perf": 3226.0,
+    "year": 2013
+  },
+  "Radeon Sky 900": {
+    "perf": 6810.0,
+    "year": 2013
+  },
+  "Tesla C2050": {
+    "perf": 1028.0,
+    "year": 2011
+  },
+  "Tesla C2070": {
+    "perf": 1028.0,
+    "year": 2011
+  },
+  "Tesla C2075": {
+    "perf": 1028.0,
+    "year": 2011
+  },
+  "Tesla C2090": {
+    "perf": 1332.0,
+    "year": 2011
+  },
+  "Tesla K10": {
+    "perf": 4578.0,
+    "year": 2012
+  },
+  "Tesla K20X": {
+    "perf": 3935.0,
+    "year": 2012
+  },
+  "Tesla K20c": {
+    "perf": 3524.0,
+    "year": 2012
+  },
+  "Tesla K20s": {
+    "perf": 2870.0,
+    "year": 2013
+  },
+  "Tesla K40m": {
+    "perf": 5046.0,
+    "year": 2013
+  },
+  "Tesla K40st": {
+    "perf": 3312.0,
+    "year": 2013
+  },
+  "Tesla K8": {
+    "perf": 2491.0,
+    "year": 2014
+  },
+  "Tesla K80": {
+    "perf": 8226.0,
+    "year": 2014
+  },
+  "Tesla M10": {
+    "perf": 6688.0,
+    "year": 2016
+  },
+  "Tesla M4": {
+    "perf": 2195.0,
+    "year": 2015
+  },
+  "Tesla M40": {
+    "perf": 6844.0,
+    "year": 2015
+  },
+  "Tesla M6": {
+    "perf": 3625.0,
+    "year": 2015
+  },
+  "Tesla M60": {
+    "perf": 9650.0,
+    "year": 2015
+  },
+  "Tesla P100 DGXS": {
+    "perf": 10610.0,
+    "year": 2016
+  },
+  "Tesla P100 PCIe 12 GB": {
+    "perf": 9526.0,
+    "year": 2016
+  },
+  "Tesla P100 PCIe 16 GB": {
+    "perf": 9526.0,
+    "year": 2016
+  },
+  "Tesla P100 SXM2": {
+    "perf": 10610.0,
+    "year": 2016
+  },
+  "Tesla P4": {
+    "perf": 5704.0,
+    "year": 2016
+  },
+  "Tesla P40": {
+    "perf": 11760.0,
+    "year": 2016
+  },
+  "Tesla P6": {
+    "perf": 6169.0,
+    "year": 2017
+  },
+  "Tesla T4": {
+    "perf": 8141.0,
+    "year": 2018
+  },
+  "Tesla V100 PCIe 16 GB": {
+    "perf": 14130.0,
+    "year": 2017
+  },
+  "Tesla V100 PCIe 32 GB": {
+    "perf": 14130.0,
+    "year": 2018
+  },
+  "Tesla V100 SXM2 16 GB": {
+    "perf": 15670.0,
+    "year": 2017
+  },
+  "Tesla V100 SXM3 32 GB": {
+    "perf": 15670.0,
+    "year": 2018
+  },
+  "Tesla V100S PCIe 32 GB": {
+    "perf": 16350.0,
+    "year": 2019
+  }
+}
